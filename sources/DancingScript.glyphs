@@ -88650,8 +88650,9 @@ metricRight = O;
 unicode = 937;
 },
 {
+color = 8;
 glyphname = pi;
-lastChange = "2024-08-31 04:29:13 +0000";
+lastChange = "2024-08-31 04:44:03 +0000";
 layers = (
 {
 layerId = master01;
